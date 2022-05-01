@@ -1,4 +1,14 @@
-## Hi there 👋
+# Polygons Games Studio
+
+We are indie game devs from Poland, interested in game development.
+
+## Speed Legends
+
+Currently we're working on **Speed Legends**:
+- 🚗 Racing game
+- 🗺 Open world
+- 🏙 Located in Monaco
+- Semi-simulator physics
 
 <!--
 
