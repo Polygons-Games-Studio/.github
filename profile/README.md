@@ -8,7 +8,8 @@ Currently we're working on **Speed Legends**:
 - 🚗 Racing game
 - 🗺 Open world
 - 🏙 Located in Monaco
-- Semi-simulator physics
+- 🏎 Semi-simulator physics
+- 📔 Extensive storyline
 
 <!--
 
