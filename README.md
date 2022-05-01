@@ -1,1 +1,1 @@
-# .github
+# Polygons Games Studio
